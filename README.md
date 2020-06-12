@@ -1,8 +1,5 @@
-# nadineloepfe
+## Playing with CSS and HTML
 
-First ever Portfolio / FAC Application 2020
+First ever Portfolio
 
 https://nadinedelia.github.io/Portfolio/
-
-
----> decided to study @ Makers Academy
